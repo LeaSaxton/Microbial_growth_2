@@ -1,0 +1,19 @@
+{
+  "name": "microbe_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "r-script": "0.0.4",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.4",
+    "tmp": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
